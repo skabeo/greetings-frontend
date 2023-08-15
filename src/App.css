@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Roboto+Flex:wght@300;400;500;600;700&family=Roboto+Serif:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.homepage {
+  max-width: 70%;
+  margin: 0 auto;
+  box-shadow:
+    20px 20px 60px #d9d9d9,
+    -20px -20px 60px #fff;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.top-gap {
+  margin-top: 50px;
+}
+
+.small-gap {
+  margin-top: 10px;
+}
+
+.message-btn {
+  margin-top: 10px;
+  font-family: inherit;
+  background-color: inherit;
+  padding: 8px;
+  border-radius: 50px;
+  border: none;
+  outline: 1px solid rgb(55, 122, 160);
+  transition: all 0.15s;
+}
+
+.message-btn:hover {
+  background-color: rgb(55, 122, 160);
+  color: white;
+}
