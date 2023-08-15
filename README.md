@@ -103,7 +103,7 @@ npm start
 
 ### Backend repository
 
-To access the backend scripts that power this user interface, please refer to the instructions in the README of the backend repository linked [here](https://github.com/skabeo/rails-api).
+To access the backend scripts that power this user interface, please refer to the instructions in the README of the backend repository linked [here](https://github.com/skabeo/rails-api/pull/1).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
